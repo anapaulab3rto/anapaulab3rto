@@ -1,6 +1,8 @@
 ### Olá👋
 Meu nome é Ana Paula Berto
+<br>
 Sou Técnica em Informática pelo IFPB Campus Itaporanga
+<br>
 e estudante de Ciência da Computação na UFCG
 <div>
   <a href="https://github.com/anapaulab3rto">
